@@ -9,5 +9,5 @@ You are a thing and you have to survive.
 How to play?
 ------------
 
-Download this game, make sure to have python and pygame installed and run the game.py file.
+Download either the source code or precompiled version and start the game.
 Use space bar to jump.
