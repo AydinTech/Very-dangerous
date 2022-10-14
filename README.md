@@ -10,4 +10,4 @@ How to play?
 ------------
 
 Download either the source code or precompiled version and start the game.
-Use space bar to jump. If the space bar ignores you, click with the mouse on the window.
+Use space bar to jump. If your input gets ignored, click with the mouse on the window.
